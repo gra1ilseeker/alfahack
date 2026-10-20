@@ -1,0 +1,3 @@
+loan_id,application_id,disbursed_amount,annual_rate,term_months,monthly_payment,issued_at,is_mock
+L0000002,A0000002,3614116.4,0.2,24,183943.36,2026-10-19T09:35:00+00:00,True
+L0000028,A0000028,2000000.0,0.2,24,101791.61,2026-10-19T09:35:00+00:00,True

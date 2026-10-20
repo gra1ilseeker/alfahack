@@ -1,0 +1,7 @@
+{
+  "source": "fictional_rule_simulator",
+  "seed": 42,
+  "rows": 2400,
+  "contains_real_bank_data": false,
+  "warning": "Learning this source learns the simulator, not a real bank distribution."
+}

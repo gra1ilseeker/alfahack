@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools==78.1.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "credit-synth"
+version = "0.1.0"
+description = "CVAE and feature-conditioned VGAE for synthetic SME credit demo data"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "torch==2.6.0", "numpy==2.3.5", "pandas==2.2.3",
+    "scikit-learn==1.8.0", "scipy==1.17.0",
+]
+
+[project.scripts]
+credit-synth = "credit_synth.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["credit_synth*"]

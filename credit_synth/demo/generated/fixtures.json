@@ -1,0 +1,42 @@
+[
+  {
+    "case": "approved",
+    "company_id": "F_APPROVED",
+    "client_id": "U0000500",
+    "application_id": "A0000500",
+    "expected_status": "APPROVED",
+    "actual_status": "APPROVED"
+  },
+  {
+    "case": "rejected",
+    "company_id": "F_REJECTED",
+    "client_id": "U0000501",
+    "application_id": "A0000501",
+    "expected_status": "REJECTED",
+    "actual_status": "REJECTED"
+  },
+  {
+    "case": "needs_info",
+    "company_id": "F_NEEDS_INFO",
+    "client_id": "U0000502",
+    "application_id": "A0000502",
+    "expected_status": "NEEDS_INFO",
+    "actual_status": "NEEDS_INFO"
+  },
+  {
+    "case": "counter_offer",
+    "company_id": "F_COUNTER_OFFER",
+    "client_id": "U0000503",
+    "application_id": "A0000503",
+    "expected_status": "COUNTER_OFFER",
+    "actual_status": "COUNTER_OFFER"
+  },
+  {
+    "case": "issued",
+    "company_id": "F_ISSUED",
+    "client_id": "U0000504",
+    "application_id": "A0000504",
+    "expected_status": "ISSUED",
+    "actual_status": "ISSUED"
+  }
+]

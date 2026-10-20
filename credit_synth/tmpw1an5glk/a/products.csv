@@ -1,0 +1,4 @@
+product_id,name,min_amount,max_amount,annual_rate,allowed_terms,purpose
+working_capital,Demo working capital,100000.0,15000000.0,0.2,"6,12,24,36",working_capital
+equipment,Demo equipment loan,200000.0,30000000.0,0.18,"12,24,36,60",equipment
+credit_line,Demo credit line (installment approximation),100000.0,10000000.0,0.22,"6,12,24",cash_gap

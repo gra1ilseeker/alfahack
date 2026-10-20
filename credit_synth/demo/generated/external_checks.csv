@@ -1,0 +1,893 @@
+check_id,application_id,provider,status,payload_json,checked_at
+CHK0000000_0,A0000000,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000000_1,A0000000,BKI_MOCK,completed_mock,"{""existing_debt"": 629436.5, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000001_0,A0000001,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000001_1,A0000001,BKI_MOCK,completed_mock,"{""existing_debt"": 2028012.81, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000002_0,A0000002,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000002_1,A0000002,BKI_MOCK,completed_mock,"{""existing_debt"": 5110386.06, ""overdue_days"": 8}",2026-10-19T09:15:00+00:00
+CHK0000003_0,A0000003,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000003_1,A0000003,BKI_MOCK,completed_mock,"{""existing_debt"": 4884444.8, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000004_0,A0000004,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000004_1,A0000004,BKI_MOCK,completed_mock,"{""existing_debt"": 5397557.69, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000005_0,A0000005,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000005_1,A0000005,BKI_MOCK,completed_mock,"{""existing_debt"": 3588388.32, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000006_0,A0000006,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000006_1,A0000006,BKI_MOCK,completed_mock,"{""existing_debt"": 866225.4, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000007_0,A0000007,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000007_1,A0000007,BKI_MOCK,completed_mock,"{""existing_debt"": 3834592.17, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000009_0,A0000009,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000009_1,A0000009,BKI_MOCK,completed_mock,"{""existing_debt"": 1499230.85, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000010_0,A0000010,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000010_1,A0000010,BKI_MOCK,completed_mock,"{""existing_debt"": 23295.69, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000011_0,A0000011,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000011_1,A0000011,BKI_MOCK,completed_mock,"{""existing_debt"": 2438700.22, ""overdue_days"": 61}",2026-10-19T09:15:00+00:00
+CHK0000012_0,A0000012,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000012_1,A0000012,BKI_MOCK,completed_mock,"{""existing_debt"": 2648394.4, ""overdue_days"": 85}",2026-10-19T09:15:00+00:00
+CHK0000013_0,A0000013,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000013_1,A0000013,BKI_MOCK,completed_mock,"{""existing_debt"": 3188179.98, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000014_0,A0000014,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000014_1,A0000014,BKI_MOCK,completed_mock,"{""existing_debt"": 1363932.36, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000015_0,A0000015,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000015_1,A0000015,BKI_MOCK,completed_mock,"{""existing_debt"": 3998911.94, ""overdue_days"": 15}",2026-10-19T09:15:00+00:00
+CHK0000016_0,A0000016,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000016_1,A0000016,BKI_MOCK,completed_mock,"{""existing_debt"": 6413712.43, ""overdue_days"": 97}",2026-10-19T09:15:00+00:00
+CHK0000017_0,A0000017,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000017_1,A0000017,BKI_MOCK,completed_mock,"{""existing_debt"": 3567412.21, ""overdue_days"": 16}",2026-10-19T09:15:00+00:00
+CHK0000018_0,A0000018,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000018_1,A0000018,BKI_MOCK,completed_mock,"{""existing_debt"": 7277020.55, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000019_0,A0000019,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000019_1,A0000019,BKI_MOCK,completed_mock,"{""existing_debt"": 6354958.15, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000020_0,A0000020,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000020_1,A0000020,BKI_MOCK,completed_mock,"{""existing_debt"": 5806625.1, ""overdue_days"": 69}",2026-10-19T09:15:00+00:00
+CHK0000021_0,A0000021,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000021_1,A0000021,BKI_MOCK,completed_mock,"{""existing_debt"": 7557846.16, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000022_0,A0000022,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000022_1,A0000022,BKI_MOCK,completed_mock,"{""existing_debt"": 549763.25, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000023_0,A0000023,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000023_1,A0000023,BKI_MOCK,completed_mock,"{""existing_debt"": 1829177.3, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000024_0,A0000024,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000024_1,A0000024,BKI_MOCK,completed_mock,"{""existing_debt"": 596970.51, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000025_0,A0000025,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000025_1,A0000025,BKI_MOCK,completed_mock,"{""existing_debt"": 1213737.85, ""overdue_days"": 11}",2026-10-19T09:15:00+00:00
+CHK0000026_0,A0000026,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000026_1,A0000026,BKI_MOCK,completed_mock,"{""existing_debt"": 513660.95, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000027_0,A0000027,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000027_1,A0000027,BKI_MOCK,completed_mock,"{""existing_debt"": 8228405.94, ""overdue_days"": 18}",2026-10-19T09:15:00+00:00
+CHK0000028_0,A0000028,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000028_1,A0000028,BKI_MOCK,completed_mock,"{""existing_debt"": 1935168.06, ""overdue_days"": 92}",2026-10-19T09:15:00+00:00
+CHK0000029_0,A0000029,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000029_1,A0000029,BKI_MOCK,completed_mock,"{""existing_debt"": 9546727.42, ""overdue_days"": 9}",2026-10-19T09:15:00+00:00
+CHK0000031_0,A0000031,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000031_1,A0000031,BKI_MOCK,completed_mock,"{""existing_debt"": 797283.88, ""overdue_days"": 2}",2026-10-19T09:15:00+00:00
+CHK0000032_0,A0000032,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000032_1,A0000032,BKI_MOCK,completed_mock,"{""existing_debt"": 1591021.87, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000034_0,A0000034,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000034_1,A0000034,BKI_MOCK,completed_mock,"{""existing_debt"": 7399138.31, ""overdue_days"": 10}",2026-10-19T09:15:00+00:00
+CHK0000035_0,A0000035,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000035_1,A0000035,BKI_MOCK,completed_mock,"{""existing_debt"": 1738353.27, ""overdue_days"": 94}",2026-10-19T09:15:00+00:00
+CHK0000036_0,A0000036,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000036_1,A0000036,BKI_MOCK,completed_mock,"{""existing_debt"": 1890076.66, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000037_0,A0000037,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000037_1,A0000037,BKI_MOCK,completed_mock,"{""existing_debt"": 1737752.62, ""overdue_days"": 16}",2026-10-19T09:15:00+00:00
+CHK0000038_0,A0000038,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000038_1,A0000038,BKI_MOCK,completed_mock,"{""existing_debt"": 0.0, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000039_0,A0000039,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000039_1,A0000039,BKI_MOCK,completed_mock,"{""existing_debt"": 1018598.14, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000040_0,A0000040,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000040_1,A0000040,BKI_MOCK,completed_mock,"{""existing_debt"": 578785.39, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000041_0,A0000041,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000041_1,A0000041,BKI_MOCK,completed_mock,"{""existing_debt"": 3666522.14, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000042_0,A0000042,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000042_1,A0000042,BKI_MOCK,completed_mock,"{""existing_debt"": 6171094.5, ""overdue_days"": 10}",2026-10-19T09:15:00+00:00
+CHK0000043_0,A0000043,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000043_1,A0000043,BKI_MOCK,completed_mock,"{""existing_debt"": 1785201.91, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000044_0,A0000044,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000044_1,A0000044,BKI_MOCK,completed_mock,"{""existing_debt"": 1815723.16, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000045_0,A0000045,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000045_1,A0000045,BKI_MOCK,completed_mock,"{""existing_debt"": 3079515.14, ""overdue_days"": 25}",2026-10-19T09:15:00+00:00
+CHK0000046_0,A0000046,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000046_1,A0000046,BKI_MOCK,completed_mock,"{""existing_debt"": 4564394.18, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000047_0,A0000047,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000047_1,A0000047,BKI_MOCK,completed_mock,"{""existing_debt"": 2400595.39, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000048_0,A0000048,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000048_1,A0000048,BKI_MOCK,completed_mock,"{""existing_debt"": 994613.84, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000049_0,A0000049,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000049_1,A0000049,BKI_MOCK,completed_mock,"{""existing_debt"": 88965.78, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000050_0,A0000050,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000050_1,A0000050,BKI_MOCK,completed_mock,"{""existing_debt"": 5345737.08, ""overdue_days"": 77}",2026-10-19T09:15:00+00:00
+CHK0000051_0,A0000051,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000051_1,A0000051,BKI_MOCK,completed_mock,"{""existing_debt"": 489300.6, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000052_0,A0000052,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000052_1,A0000052,BKI_MOCK,completed_mock,"{""existing_debt"": 842159.79, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000053_0,A0000053,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000053_1,A0000053,BKI_MOCK,completed_mock,"{""existing_debt"": 1675485.3, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000054_0,A0000054,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000054_1,A0000054,BKI_MOCK,completed_mock,"{""existing_debt"": 1208271.58, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000055_0,A0000055,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000055_1,A0000055,BKI_MOCK,completed_mock,"{""existing_debt"": 1017847.11, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000056_0,A0000056,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000056_1,A0000056,BKI_MOCK,completed_mock,"{""existing_debt"": 9621683.97, ""overdue_days"": 77}",2026-10-19T09:15:00+00:00
+CHK0000057_0,A0000057,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000057_1,A0000057,BKI_MOCK,completed_mock,"{""existing_debt"": 1693756.66, ""overdue_days"": 57}",2026-10-19T09:15:00+00:00
+CHK0000058_0,A0000058,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000058_1,A0000058,BKI_MOCK,completed_mock,"{""existing_debt"": 4444319.36, ""overdue_days"": 67}",2026-10-19T09:15:00+00:00
+CHK0000059_0,A0000059,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000059_1,A0000059,BKI_MOCK,completed_mock,"{""existing_debt"": 929870.29, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000060_0,A0000060,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000060_1,A0000060,BKI_MOCK,completed_mock,"{""existing_debt"": 1347238.78, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000062_0,A0000062,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000062_1,A0000062,BKI_MOCK,completed_mock,"{""existing_debt"": 1145179.32, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000063_0,A0000063,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000063_1,A0000063,BKI_MOCK,completed_mock,"{""existing_debt"": 1323379.07, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000065_0,A0000065,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000065_1,A0000065,BKI_MOCK,completed_mock,"{""existing_debt"": 2845287.44, ""overdue_days"": 23}",2026-10-19T09:15:00+00:00
+CHK0000066_0,A0000066,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000066_1,A0000066,BKI_MOCK,completed_mock,"{""existing_debt"": 2937540.41, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000068_0,A0000068,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000068_1,A0000068,BKI_MOCK,completed_mock,"{""existing_debt"": 1875477.77, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000069_0,A0000069,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000069_1,A0000069,BKI_MOCK,completed_mock,"{""existing_debt"": 19155045.39, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000070_0,A0000070,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000070_1,A0000070,BKI_MOCK,completed_mock,"{""existing_debt"": 634232.89, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000071_0,A0000071,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000071_1,A0000071,BKI_MOCK,completed_mock,"{""existing_debt"": 1815158.8, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000072_0,A0000072,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000072_1,A0000072,BKI_MOCK,completed_mock,"{""existing_debt"": 600967.26, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000073_0,A0000073,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000073_1,A0000073,BKI_MOCK,completed_mock,"{""existing_debt"": 3043422.84, ""overdue_days"": 93}",2026-10-19T09:15:00+00:00
+CHK0000074_0,A0000074,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000074_1,A0000074,BKI_MOCK,completed_mock,"{""existing_debt"": 1006995.54, ""overdue_days"": 99}",2026-10-19T09:15:00+00:00
+CHK0000075_0,A0000075,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000075_1,A0000075,BKI_MOCK,completed_mock,"{""existing_debt"": 2869611.86, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000077_0,A0000077,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000077_1,A0000077,BKI_MOCK,completed_mock,"{""existing_debt"": 629438.62, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000079_0,A0000079,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000079_1,A0000079,BKI_MOCK,completed_mock,"{""existing_debt"": 2053732.32, ""overdue_days"": 55}",2026-10-19T09:15:00+00:00
+CHK0000081_0,A0000081,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000081_1,A0000081,BKI_MOCK,completed_mock,"{""existing_debt"": 1153327.22, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000082_0,A0000082,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000082_1,A0000082,BKI_MOCK,completed_mock,"{""existing_debt"": 7218627.97, ""overdue_days"": 62}",2026-10-19T09:15:00+00:00
+CHK0000083_0,A0000083,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000083_1,A0000083,BKI_MOCK,completed_mock,"{""existing_debt"": 561075.57, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000085_0,A0000085,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000085_1,A0000085,BKI_MOCK,completed_mock,"{""existing_debt"": 9790339.73, ""overdue_days"": 77}",2026-10-19T09:15:00+00:00
+CHK0000086_0,A0000086,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000086_1,A0000086,BKI_MOCK,completed_mock,"{""existing_debt"": 701970.73, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000087_0,A0000087,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000087_1,A0000087,BKI_MOCK,completed_mock,"{""existing_debt"": 5601042.14, ""overdue_days"": 25}",2026-10-19T09:15:00+00:00
+CHK0000090_0,A0000090,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000090_1,A0000090,BKI_MOCK,completed_mock,"{""existing_debt"": 244501.22, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000091_0,A0000091,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000091_1,A0000091,BKI_MOCK,completed_mock,"{""existing_debt"": 3718675.28, ""overdue_days"": 79}",2026-10-19T09:15:00+00:00
+CHK0000092_0,A0000092,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000092_1,A0000092,BKI_MOCK,completed_mock,"{""existing_debt"": 1090465.98, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000093_0,A0000093,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000093_1,A0000093,BKI_MOCK,completed_mock,"{""existing_debt"": 878868.74, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000096_0,A0000096,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000096_1,A0000096,BKI_MOCK,completed_mock,"{""existing_debt"": 937579.77, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000097_0,A0000097,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000097_1,A0000097,BKI_MOCK,completed_mock,"{""existing_debt"": 3553018.97, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000098_0,A0000098,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000098_1,A0000098,BKI_MOCK,completed_mock,"{""existing_debt"": 13089763.92, ""overdue_days"": 10}",2026-10-19T09:15:00+00:00
+CHK0000099_0,A0000099,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000099_1,A0000099,BKI_MOCK,completed_mock,"{""existing_debt"": 3430.05, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000100_0,A0000100,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000100_1,A0000100,BKI_MOCK,completed_mock,"{""existing_debt"": 1593041.69, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000101_0,A0000101,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000101_1,A0000101,BKI_MOCK,completed_mock,"{""existing_debt"": 1987641.85, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000102_0,A0000102,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000102_1,A0000102,BKI_MOCK,completed_mock,"{""existing_debt"": 3989439.35, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000103_0,A0000103,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000103_1,A0000103,BKI_MOCK,completed_mock,"{""existing_debt"": 377460.57, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000104_0,A0000104,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000104_1,A0000104,BKI_MOCK,completed_mock,"{""existing_debt"": 5347351.31, ""overdue_days"": 7}",2026-10-19T09:15:00+00:00
+CHK0000105_0,A0000105,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000105_1,A0000105,BKI_MOCK,completed_mock,"{""existing_debt"": 19779919.42, ""overdue_days"": 83}",2026-10-19T09:15:00+00:00
+CHK0000106_0,A0000106,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000106_1,A0000106,BKI_MOCK,completed_mock,"{""existing_debt"": 2419107.93, ""overdue_days"": 23}",2026-10-19T09:15:00+00:00
+CHK0000107_0,A0000107,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000107_1,A0000107,BKI_MOCK,completed_mock,"{""existing_debt"": 6023020.94, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000108_0,A0000108,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000108_1,A0000108,BKI_MOCK,completed_mock,"{""existing_debt"": 1691113.57, ""overdue_days"": 10}",2026-10-19T09:15:00+00:00
+CHK0000109_0,A0000109,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000109_1,A0000109,BKI_MOCK,completed_mock,"{""existing_debt"": 1897408.35, ""overdue_days"": 78}",2026-10-19T09:15:00+00:00
+CHK0000110_0,A0000110,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000110_1,A0000110,BKI_MOCK,completed_mock,"{""existing_debt"": 561372.29, ""overdue_days"": 9}",2026-10-19T09:15:00+00:00
+CHK0000111_0,A0000111,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000111_1,A0000111,BKI_MOCK,completed_mock,"{""existing_debt"": 1405316.62, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000113_0,A0000113,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000113_1,A0000113,BKI_MOCK,completed_mock,"{""existing_debt"": 2769802.23, ""overdue_days"": 101}",2026-10-19T09:15:00+00:00
+CHK0000115_0,A0000115,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000115_1,A0000115,BKI_MOCK,completed_mock,"{""existing_debt"": 589789.68, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000116_0,A0000116,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000116_1,A0000116,BKI_MOCK,completed_mock,"{""existing_debt"": 793251.16, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000117_0,A0000117,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000117_1,A0000117,BKI_MOCK,completed_mock,"{""existing_debt"": 4317837.78, ""overdue_days"": 16}",2026-10-19T09:15:00+00:00
+CHK0000119_0,A0000119,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000119_1,A0000119,BKI_MOCK,completed_mock,"{""existing_debt"": 7397834.21, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000120_0,A0000120,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000120_1,A0000120,BKI_MOCK,completed_mock,"{""existing_debt"": 3250615.93, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000121_0,A0000121,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000121_1,A0000121,BKI_MOCK,completed_mock,"{""existing_debt"": 2844051.81, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000122_0,A0000122,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000122_1,A0000122,BKI_MOCK,completed_mock,"{""existing_debt"": 2292094.11, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000123_0,A0000123,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000123_1,A0000123,BKI_MOCK,completed_mock,"{""existing_debt"": 750748.71, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000124_0,A0000124,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000124_1,A0000124,BKI_MOCK,completed_mock,"{""existing_debt"": 3349358.22, ""overdue_days"": 17}",2026-10-19T09:15:00+00:00
+CHK0000125_0,A0000125,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000125_1,A0000125,BKI_MOCK,completed_mock,"{""existing_debt"": 2721576.66, ""overdue_days"": 15}",2026-10-19T09:15:00+00:00
+CHK0000126_0,A0000126,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000126_1,A0000126,BKI_MOCK,completed_mock,"{""existing_debt"": 6438220.43, ""overdue_days"": 96}",2026-10-19T09:15:00+00:00
+CHK0000127_0,A0000127,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000127_1,A0000127,BKI_MOCK,completed_mock,"{""existing_debt"": 927622.83, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000128_0,A0000128,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000128_1,A0000128,BKI_MOCK,completed_mock,"{""existing_debt"": 1538720.86, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000129_0,A0000129,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000129_1,A0000129,BKI_MOCK,completed_mock,"{""existing_debt"": 17997645.17, ""overdue_days"": 75}",2026-10-19T09:15:00+00:00
+CHK0000130_0,A0000130,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000130_1,A0000130,BKI_MOCK,completed_mock,"{""existing_debt"": 1011149.2, ""overdue_days"": 21}",2026-10-19T09:15:00+00:00
+CHK0000132_0,A0000132,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000132_1,A0000132,BKI_MOCK,completed_mock,"{""existing_debt"": 4980509.32, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000134_0,A0000134,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000134_1,A0000134,BKI_MOCK,completed_mock,"{""existing_debt"": 944587.07, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000136_0,A0000136,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000136_1,A0000136,BKI_MOCK,completed_mock,"{""existing_debt"": 2850316.0, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000137_0,A0000137,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000137_1,A0000137,BKI_MOCK,completed_mock,"{""existing_debt"": 1493133.33, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000138_0,A0000138,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000138_1,A0000138,BKI_MOCK,completed_mock,"{""existing_debt"": 4113605.31, ""overdue_days"": 15}",2026-10-19T09:15:00+00:00
+CHK0000140_0,A0000140,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000140_1,A0000140,BKI_MOCK,completed_mock,"{""existing_debt"": 1224383.1, ""overdue_days"": 2}",2026-10-19T09:15:00+00:00
+CHK0000142_0,A0000142,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000142_1,A0000142,BKI_MOCK,completed_mock,"{""existing_debt"": 0.0, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000144_0,A0000144,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000144_1,A0000144,BKI_MOCK,completed_mock,"{""existing_debt"": 1913063.59, ""overdue_days"": 11}",2026-10-19T09:15:00+00:00
+CHK0000146_0,A0000146,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000146_1,A0000146,BKI_MOCK,completed_mock,"{""existing_debt"": 2283969.15, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000147_0,A0000147,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000147_1,A0000147,BKI_MOCK,completed_mock,"{""existing_debt"": 1220394.25, ""overdue_days"": 61}",2026-10-19T09:15:00+00:00
+CHK0000148_0,A0000148,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000148_1,A0000148,BKI_MOCK,completed_mock,"{""existing_debt"": 240112.34, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000149_0,A0000149,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000149_1,A0000149,BKI_MOCK,completed_mock,"{""existing_debt"": 8760322.52, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000150_0,A0000150,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000150_1,A0000150,BKI_MOCK,completed_mock,"{""existing_debt"": 2269674.43, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000151_0,A0000151,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000151_1,A0000151,BKI_MOCK,completed_mock,"{""existing_debt"": 338101.79, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000152_0,A0000152,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000152_1,A0000152,BKI_MOCK,completed_mock,"{""existing_debt"": 12482706.21, ""overdue_days"": 17}",2026-10-19T09:15:00+00:00
+CHK0000153_0,A0000153,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000153_1,A0000153,BKI_MOCK,completed_mock,"{""existing_debt"": 677714.74, ""overdue_days"": 2}",2026-10-19T09:15:00+00:00
+CHK0000154_0,A0000154,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000154_1,A0000154,BKI_MOCK,completed_mock,"{""existing_debt"": 2174020.45, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000155_0,A0000155,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000155_1,A0000155,BKI_MOCK,completed_mock,"{""existing_debt"": 2626914.31, ""overdue_days"": 9}",2026-10-19T09:15:00+00:00
+CHK0000156_0,A0000156,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000156_1,A0000156,BKI_MOCK,completed_mock,"{""existing_debt"": 1156142.18, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000158_0,A0000158,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000158_1,A0000158,BKI_MOCK,completed_mock,"{""existing_debt"": 1238130.89, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000159_0,A0000159,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000159_1,A0000159,BKI_MOCK,completed_mock,"{""existing_debt"": 1482807.09, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000160_0,A0000160,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000160_1,A0000160,BKI_MOCK,completed_mock,"{""existing_debt"": 1201658.22, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000161_0,A0000161,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000161_1,A0000161,BKI_MOCK,completed_mock,"{""existing_debt"": 3403673.38, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000162_0,A0000162,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000162_1,A0000162,BKI_MOCK,completed_mock,"{""existing_debt"": 1116460.6, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000163_0,A0000163,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000163_1,A0000163,BKI_MOCK,completed_mock,"{""existing_debt"": 1794632.62, ""overdue_days"": 17}",2026-10-19T09:15:00+00:00
+CHK0000164_0,A0000164,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000164_1,A0000164,BKI_MOCK,completed_mock,"{""existing_debt"": 711757.34, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000165_0,A0000165,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000165_1,A0000165,BKI_MOCK,completed_mock,"{""existing_debt"": 2253534.71, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000167_0,A0000167,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000167_1,A0000167,BKI_MOCK,completed_mock,"{""existing_debt"": 2268571.94, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000168_0,A0000168,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000168_1,A0000168,BKI_MOCK,completed_mock,"{""existing_debt"": 12666.01, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000169_0,A0000169,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000169_1,A0000169,BKI_MOCK,completed_mock,"{""existing_debt"": 963898.99, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000170_0,A0000170,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000170_1,A0000170,BKI_MOCK,completed_mock,"{""existing_debt"": 3883930.36, ""overdue_days"": 2}",2026-10-19T09:15:00+00:00
+CHK0000172_0,A0000172,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000172_1,A0000172,BKI_MOCK,completed_mock,"{""existing_debt"": 1042757.43, ""overdue_days"": 29}",2026-10-19T09:15:00+00:00
+CHK0000174_0,A0000174,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000174_1,A0000174,BKI_MOCK,completed_mock,"{""existing_debt"": 5280205.55, ""overdue_days"": 15}",2026-10-19T09:15:00+00:00
+CHK0000175_0,A0000175,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000175_1,A0000175,BKI_MOCK,completed_mock,"{""existing_debt"": 3075366.18, ""overdue_days"": 15}",2026-10-19T09:15:00+00:00
+CHK0000176_0,A0000176,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000176_1,A0000176,BKI_MOCK,completed_mock,"{""existing_debt"": 1218871.39, ""overdue_days"": 72}",2026-10-19T09:15:00+00:00
+CHK0000177_0,A0000177,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000177_1,A0000177,BKI_MOCK,completed_mock,"{""existing_debt"": 580819.54, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000178_0,A0000178,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000178_1,A0000178,BKI_MOCK,completed_mock,"{""existing_debt"": 99942.42, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000179_0,A0000179,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000179_1,A0000179,BKI_MOCK,completed_mock,"{""existing_debt"": 895339.35, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000180_0,A0000180,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000180_1,A0000180,BKI_MOCK,completed_mock,"{""existing_debt"": 11390126.23, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000181_0,A0000181,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000181_1,A0000181,BKI_MOCK,completed_mock,"{""existing_debt"": 1658964.22, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000183_0,A0000183,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000183_1,A0000183,BKI_MOCK,completed_mock,"{""existing_debt"": 3331284.03, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000184_0,A0000184,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000184_1,A0000184,BKI_MOCK,completed_mock,"{""existing_debt"": 2778156.38, ""overdue_days"": 11}",2026-10-19T09:15:00+00:00
+CHK0000185_0,A0000185,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000185_1,A0000185,BKI_MOCK,completed_mock,"{""existing_debt"": 3026381.72, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000186_0,A0000186,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000186_1,A0000186,BKI_MOCK,completed_mock,"{""existing_debt"": 1184894.1, ""overdue_days"": 73}",2026-10-19T09:15:00+00:00
+CHK0000188_0,A0000188,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000188_1,A0000188,BKI_MOCK,completed_mock,"{""existing_debt"": 516219.11, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000189_0,A0000189,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000189_1,A0000189,BKI_MOCK,completed_mock,"{""existing_debt"": 3168478.96, ""overdue_days"": 2}",2026-10-19T09:15:00+00:00
+CHK0000191_0,A0000191,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000191_1,A0000191,BKI_MOCK,completed_mock,"{""existing_debt"": 3449111.67, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000192_0,A0000192,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000192_1,A0000192,BKI_MOCK,completed_mock,"{""existing_debt"": 2433685.9, ""overdue_days"": 20}",2026-10-19T09:15:00+00:00
+CHK0000193_0,A0000193,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000193_1,A0000193,BKI_MOCK,completed_mock,"{""existing_debt"": 1090889.05, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000194_0,A0000194,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000194_1,A0000194,BKI_MOCK,completed_mock,"{""existing_debt"": 3325278.15, ""overdue_days"": 10}",2026-10-19T09:15:00+00:00
+CHK0000195_0,A0000195,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000195_1,A0000195,BKI_MOCK,completed_mock,"{""existing_debt"": 2328664.36, ""overdue_days"": 16}",2026-10-19T09:15:00+00:00
+CHK0000197_0,A0000197,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000197_1,A0000197,BKI_MOCK,completed_mock,"{""existing_debt"": 777129.64, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000198_0,A0000198,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000198_1,A0000198,BKI_MOCK,completed_mock,"{""existing_debt"": 535973.75, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000199_0,A0000199,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000199_1,A0000199,BKI_MOCK,completed_mock,"{""existing_debt"": 490025.32, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000200_0,A0000200,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000200_1,A0000200,BKI_MOCK,completed_mock,"{""existing_debt"": 153309.7, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000201_0,A0000201,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000201_1,A0000201,BKI_MOCK,completed_mock,"{""existing_debt"": 1266339.75, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000202_0,A0000202,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000202_1,A0000202,BKI_MOCK,completed_mock,"{""existing_debt"": 991785.99, ""overdue_days"": 9}",2026-10-19T09:15:00+00:00
+CHK0000203_0,A0000203,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000203_1,A0000203,BKI_MOCK,completed_mock,"{""existing_debt"": 7231181.89, ""overdue_days"": 62}",2026-10-19T09:15:00+00:00
+CHK0000204_0,A0000204,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000204_1,A0000204,BKI_MOCK,completed_mock,"{""existing_debt"": 1350894.19, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000205_0,A0000205,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000205_1,A0000205,BKI_MOCK,completed_mock,"{""existing_debt"": 985256.03, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000206_0,A0000206,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000206_1,A0000206,BKI_MOCK,completed_mock,"{""existing_debt"": 3576197.09, ""overdue_days"": 55}",2026-10-19T09:15:00+00:00
+CHK0000207_0,A0000207,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000207_1,A0000207,BKI_MOCK,completed_mock,"{""existing_debt"": 779937.77, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000208_0,A0000208,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000208_1,A0000208,BKI_MOCK,completed_mock,"{""existing_debt"": 884555.19, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000209_0,A0000209,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000209_1,A0000209,BKI_MOCK,completed_mock,"{""existing_debt"": 3670011.86, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000211_0,A0000211,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000211_1,A0000211,BKI_MOCK,completed_mock,"{""existing_debt"": 899041.03, ""overdue_days"": 22}",2026-10-19T09:15:00+00:00
+CHK0000212_0,A0000212,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000212_1,A0000212,BKI_MOCK,completed_mock,"{""existing_debt"": 614244.37, ""overdue_days"": 78}",2026-10-19T09:15:00+00:00
+CHK0000214_0,A0000214,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000214_1,A0000214,BKI_MOCK,completed_mock,"{""existing_debt"": 16432219.27, ""overdue_days"": 62}",2026-10-19T09:15:00+00:00
+CHK0000215_0,A0000215,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000215_1,A0000215,BKI_MOCK,completed_mock,"{""existing_debt"": 1622770.5, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000216_0,A0000216,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000216_1,A0000216,BKI_MOCK,completed_mock,"{""existing_debt"": 636670.23, ""overdue_days"": 2}",2026-10-19T09:15:00+00:00
+CHK0000217_0,A0000217,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000217_1,A0000217,BKI_MOCK,completed_mock,"{""existing_debt"": 73855.53, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000218_0,A0000218,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000218_1,A0000218,BKI_MOCK,completed_mock,"{""existing_debt"": 1684428.32, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000219_0,A0000219,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000219_1,A0000219,BKI_MOCK,completed_mock,"{""existing_debt"": 1735275.43, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000220_0,A0000220,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000220_1,A0000220,BKI_MOCK,completed_mock,"{""existing_debt"": 180200.76, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000221_0,A0000221,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000221_1,A0000221,BKI_MOCK,completed_mock,"{""existing_debt"": 89664.91, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000222_0,A0000222,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000222_1,A0000222,BKI_MOCK,completed_mock,"{""existing_debt"": 1011483.37, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000223_0,A0000223,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000223_1,A0000223,BKI_MOCK,completed_mock,"{""existing_debt"": 830907.37, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000224_0,A0000224,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000224_1,A0000224,BKI_MOCK,completed_mock,"{""existing_debt"": 1210951.78, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000225_0,A0000225,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000225_1,A0000225,BKI_MOCK,completed_mock,"{""existing_debt"": 5807526.15, ""overdue_days"": 16}",2026-10-19T09:15:00+00:00
+CHK0000226_0,A0000226,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000226_1,A0000226,BKI_MOCK,completed_mock,"{""existing_debt"": 1581506.7, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000227_0,A0000227,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000227_1,A0000227,BKI_MOCK,completed_mock,"{""existing_debt"": 2231934.6, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000228_0,A0000228,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000228_1,A0000228,BKI_MOCK,completed_mock,"{""existing_debt"": 1984951.69, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000229_0,A0000229,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000229_1,A0000229,BKI_MOCK,completed_mock,"{""existing_debt"": 7439817.91, ""overdue_days"": 79}",2026-10-19T09:15:00+00:00
+CHK0000230_0,A0000230,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000230_1,A0000230,BKI_MOCK,completed_mock,"{""existing_debt"": 389272.19, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000231_0,A0000231,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000231_1,A0000231,BKI_MOCK,completed_mock,"{""existing_debt"": 1209311.09, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000232_0,A0000232,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000232_1,A0000232,BKI_MOCK,completed_mock,"{""existing_debt"": 1877008.15, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000233_0,A0000233,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000233_1,A0000233,BKI_MOCK,completed_mock,"{""existing_debt"": 1841754.4, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000234_0,A0000234,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000234_1,A0000234,BKI_MOCK,completed_mock,"{""existing_debt"": 5152156.81, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000235_0,A0000235,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000235_1,A0000235,BKI_MOCK,completed_mock,"{""existing_debt"": 879527.74, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000236_0,A0000236,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000236_1,A0000236,BKI_MOCK,completed_mock,"{""existing_debt"": 12394886.87, ""overdue_days"": 17}",2026-10-19T09:15:00+00:00
+CHK0000237_0,A0000237,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000237_1,A0000237,BKI_MOCK,completed_mock,"{""existing_debt"": 365706.03, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000238_0,A0000238,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000238_1,A0000238,BKI_MOCK,completed_mock,"{""existing_debt"": 2019190.53, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000239_0,A0000239,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000239_1,A0000239,BKI_MOCK,completed_mock,"{""existing_debt"": 747932.4, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000240_0,A0000240,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000240_1,A0000240,BKI_MOCK,completed_mock,"{""existing_debt"": 1413711.93, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000241_0,A0000241,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000241_1,A0000241,BKI_MOCK,completed_mock,"{""existing_debt"": 304900.34, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000243_0,A0000243,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000243_1,A0000243,BKI_MOCK,completed_mock,"{""existing_debt"": 281199.24, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000244_0,A0000244,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000244_1,A0000244,BKI_MOCK,completed_mock,"{""existing_debt"": 5001896.45, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000245_0,A0000245,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000245_1,A0000245,BKI_MOCK,completed_mock,"{""existing_debt"": 1756021.32, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000246_0,A0000246,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000246_1,A0000246,BKI_MOCK,completed_mock,"{""existing_debt"": 252725.75, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000247_0,A0000247,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000247_1,A0000247,BKI_MOCK,completed_mock,"{""existing_debt"": 921128.68, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000249_0,A0000249,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000249_1,A0000249,BKI_MOCK,completed_mock,"{""existing_debt"": 10538036.64, ""overdue_days"": 18}",2026-10-19T09:15:00+00:00
+CHK0000250_0,A0000250,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000250_1,A0000250,BKI_MOCK,completed_mock,"{""existing_debt"": 2014233.57, ""overdue_days"": 10}",2026-10-19T09:15:00+00:00
+CHK0000252_0,A0000252,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000252_1,A0000252,BKI_MOCK,completed_mock,"{""existing_debt"": 1307634.96, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000253_0,A0000253,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000253_1,A0000253,BKI_MOCK,completed_mock,"{""existing_debt"": 892126.44, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000254_0,A0000254,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000254_1,A0000254,BKI_MOCK,completed_mock,"{""existing_debt"": 10214026.3, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000255_0,A0000255,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000255_1,A0000255,BKI_MOCK,completed_mock,"{""existing_debt"": 3151105.16, ""overdue_days"": 18}",2026-10-19T09:15:00+00:00
+CHK0000256_0,A0000256,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000256_1,A0000256,BKI_MOCK,completed_mock,"{""existing_debt"": 2092277.21, ""overdue_days"": 18}",2026-10-19T09:15:00+00:00
+CHK0000257_0,A0000257,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000257_1,A0000257,BKI_MOCK,completed_mock,"{""existing_debt"": 8696878.23, ""overdue_days"": 17}",2026-10-19T09:15:00+00:00
+CHK0000259_0,A0000259,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000259_1,A0000259,BKI_MOCK,completed_mock,"{""existing_debt"": 1006011.47, ""overdue_days"": 16}",2026-10-19T09:15:00+00:00
+CHK0000260_0,A0000260,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000260_1,A0000260,BKI_MOCK,completed_mock,"{""existing_debt"": 2425929.99, ""overdue_days"": 10}",2026-10-19T09:15:00+00:00
+CHK0000261_0,A0000261,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000261_1,A0000261,BKI_MOCK,completed_mock,"{""existing_debt"": 1716517.2, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000262_0,A0000262,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000262_1,A0000262,BKI_MOCK,completed_mock,"{""existing_debt"": 3955057.34, ""overdue_days"": 72}",2026-10-19T09:15:00+00:00
+CHK0000263_0,A0000263,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000263_1,A0000263,BKI_MOCK,completed_mock,"{""existing_debt"": 20201963.87, ""overdue_days"": 65}",2026-10-19T09:15:00+00:00
+CHK0000264_0,A0000264,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000264_1,A0000264,BKI_MOCK,completed_mock,"{""existing_debt"": 171348.08, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000265_0,A0000265,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000265_1,A0000265,BKI_MOCK,completed_mock,"{""existing_debt"": 3002285.7, ""overdue_days"": 11}",2026-10-19T09:15:00+00:00
+CHK0000266_0,A0000266,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000266_1,A0000266,BKI_MOCK,completed_mock,"{""existing_debt"": 71562.59, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000268_0,A0000268,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000268_1,A0000268,BKI_MOCK,completed_mock,"{""existing_debt"": 6900956.3, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000269_0,A0000269,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000269_1,A0000269,BKI_MOCK,completed_mock,"{""existing_debt"": 3853408.68, ""overdue_days"": 67}",2026-10-19T09:15:00+00:00
+CHK0000270_0,A0000270,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000270_1,A0000270,BKI_MOCK,completed_mock,"{""existing_debt"": 1883682.86, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000271_0,A0000271,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000271_1,A0000271,BKI_MOCK,completed_mock,"{""existing_debt"": 2690299.38, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000272_0,A0000272,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000272_1,A0000272,BKI_MOCK,completed_mock,"{""existing_debt"": 1842818.11, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000273_0,A0000273,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000273_1,A0000273,BKI_MOCK,completed_mock,"{""existing_debt"": 710885.57, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000274_0,A0000274,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000274_1,A0000274,BKI_MOCK,completed_mock,"{""existing_debt"": 1204395.03, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000276_0,A0000276,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000276_1,A0000276,BKI_MOCK,completed_mock,"{""existing_debt"": 415977.63, ""overdue_days"": 2}",2026-10-19T09:15:00+00:00
+CHK0000277_0,A0000277,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000277_1,A0000277,BKI_MOCK,completed_mock,"{""existing_debt"": 3082964.61, ""overdue_days"": 74}",2026-10-19T09:15:00+00:00
+CHK0000278_0,A0000278,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000278_1,A0000278,BKI_MOCK,completed_mock,"{""existing_debt"": 376720.73, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000280_0,A0000280,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000280_1,A0000280,BKI_MOCK,completed_mock,"{""existing_debt"": 3045844.49, ""overdue_days"": 95}",2026-10-19T09:15:00+00:00
+CHK0000281_0,A0000281,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000281_1,A0000281,BKI_MOCK,completed_mock,"{""existing_debt"": 1258624.12, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000282_0,A0000282,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000282_1,A0000282,BKI_MOCK,completed_mock,"{""existing_debt"": 3666128.48, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000283_0,A0000283,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000283_1,A0000283,BKI_MOCK,completed_mock,"{""existing_debt"": 7207571.64, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000284_0,A0000284,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000284_1,A0000284,BKI_MOCK,completed_mock,"{""existing_debt"": 1279855.72, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000285_0,A0000285,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000285_1,A0000285,BKI_MOCK,completed_mock,"{""existing_debt"": 1033090.09, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000286_0,A0000286,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000286_1,A0000286,BKI_MOCK,completed_mock,"{""existing_debt"": 2062696.03, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000287_0,A0000287,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000287_1,A0000287,BKI_MOCK,completed_mock,"{""existing_debt"": 1244965.35, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000288_0,A0000288,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000288_1,A0000288,BKI_MOCK,completed_mock,"{""existing_debt"": 3724502.0, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000289_0,A0000289,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000289_1,A0000289,BKI_MOCK,completed_mock,"{""existing_debt"": 15410884.69, ""overdue_days"": 22}",2026-10-19T09:15:00+00:00
+CHK0000290_0,A0000290,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000290_1,A0000290,BKI_MOCK,completed_mock,"{""existing_debt"": 2244877.09, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000291_0,A0000291,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000291_1,A0000291,BKI_MOCK,completed_mock,"{""existing_debt"": 2003724.08, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000292_0,A0000292,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000292_1,A0000292,BKI_MOCK,completed_mock,"{""existing_debt"": 238192.38, ""overdue_days"": 18}",2026-10-19T09:15:00+00:00
+CHK0000293_0,A0000293,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000293_1,A0000293,BKI_MOCK,completed_mock,"{""existing_debt"": 913591.78, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000294_0,A0000294,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000294_1,A0000294,BKI_MOCK,completed_mock,"{""existing_debt"": 3163971.33, ""overdue_days"": 11}",2026-10-19T09:15:00+00:00
+CHK0000295_0,A0000295,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000295_1,A0000295,BKI_MOCK,completed_mock,"{""existing_debt"": 2629762.23, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000296_0,A0000296,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000296_1,A0000296,BKI_MOCK,completed_mock,"{""existing_debt"": 1242262.24, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000297_0,A0000297,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000297_1,A0000297,BKI_MOCK,completed_mock,"{""existing_debt"": 1020004.37, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000298_0,A0000298,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000298_1,A0000298,BKI_MOCK,completed_mock,"{""existing_debt"": 1190562.17, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000299_0,A0000299,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000299_1,A0000299,BKI_MOCK,completed_mock,"{""existing_debt"": 1674692.21, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000300_0,A0000300,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000300_1,A0000300,BKI_MOCK,completed_mock,"{""existing_debt"": 2653694.98, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000301_0,A0000301,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000301_1,A0000301,BKI_MOCK,completed_mock,"{""existing_debt"": 1079940.75, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000302_0,A0000302,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000302_1,A0000302,BKI_MOCK,completed_mock,"{""existing_debt"": 253112.25, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000303_0,A0000303,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000303_1,A0000303,BKI_MOCK,completed_mock,"{""existing_debt"": 3940564.74, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000305_0,A0000305,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000305_1,A0000305,BKI_MOCK,completed_mock,"{""existing_debt"": 945719.85, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000306_0,A0000306,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000306_1,A0000306,BKI_MOCK,completed_mock,"{""existing_debt"": 2025509.36, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000307_0,A0000307,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000307_1,A0000307,BKI_MOCK,completed_mock,"{""existing_debt"": 5594184.22, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000308_0,A0000308,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000308_1,A0000308,BKI_MOCK,completed_mock,"{""existing_debt"": 451171.95, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000309_0,A0000309,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000309_1,A0000309,BKI_MOCK,completed_mock,"{""existing_debt"": 5043849.42, ""overdue_days"": 8}",2026-10-19T09:15:00+00:00
+CHK0000310_0,A0000310,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000310_1,A0000310,BKI_MOCK,completed_mock,"{""existing_debt"": 2982829.62, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000311_0,A0000311,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000311_1,A0000311,BKI_MOCK,completed_mock,"{""existing_debt"": 12853252.97, ""overdue_days"": 69}",2026-10-19T09:15:00+00:00
+CHK0000312_0,A0000312,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000312_1,A0000312,BKI_MOCK,completed_mock,"{""existing_debt"": 1561871.29, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000313_0,A0000313,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000313_1,A0000313,BKI_MOCK,completed_mock,"{""existing_debt"": 1584005.92, ""overdue_days"": 9}",2026-10-19T09:15:00+00:00
+CHK0000314_0,A0000314,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000314_1,A0000314,BKI_MOCK,completed_mock,"{""existing_debt"": 1503174.05, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000315_0,A0000315,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000315_1,A0000315,BKI_MOCK,completed_mock,"{""existing_debt"": 425659.05, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000316_0,A0000316,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000316_1,A0000316,BKI_MOCK,completed_mock,"{""existing_debt"": 2301424.2, ""overdue_days"": 15}",2026-10-19T09:15:00+00:00
+CHK0000317_0,A0000317,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000317_1,A0000317,BKI_MOCK,completed_mock,"{""existing_debt"": 1271884.34, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000318_0,A0000318,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000318_1,A0000318,BKI_MOCK,completed_mock,"{""existing_debt"": 9944901.9, ""overdue_days"": 19}",2026-10-19T09:15:00+00:00
+CHK0000319_0,A0000319,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000319_1,A0000319,BKI_MOCK,completed_mock,"{""existing_debt"": 3553742.81, ""overdue_days"": 8}",2026-10-19T09:15:00+00:00
+CHK0000320_0,A0000320,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000320_1,A0000320,BKI_MOCK,completed_mock,"{""existing_debt"": 1492040.98, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000321_0,A0000321,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000321_1,A0000321,BKI_MOCK,completed_mock,"{""existing_debt"": 392543.39, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000322_0,A0000322,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000322_1,A0000322,BKI_MOCK,completed_mock,"{""existing_debt"": 5815130.37, ""overdue_days"": 11}",2026-10-19T09:15:00+00:00
+CHK0000323_0,A0000323,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000323_1,A0000323,BKI_MOCK,completed_mock,"{""existing_debt"": 1521912.8, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000324_0,A0000324,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000324_1,A0000324,BKI_MOCK,completed_mock,"{""existing_debt"": 2608534.64, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000325_0,A0000325,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000325_1,A0000325,BKI_MOCK,completed_mock,"{""existing_debt"": 1176133.93, ""overdue_days"": 78}",2026-10-19T09:15:00+00:00
+CHK0000326_0,A0000326,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000326_1,A0000326,BKI_MOCK,completed_mock,"{""existing_debt"": 2201589.77, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000327_0,A0000327,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000327_1,A0000327,BKI_MOCK,completed_mock,"{""existing_debt"": 467975.24, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000328_0,A0000328,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000328_1,A0000328,BKI_MOCK,completed_mock,"{""existing_debt"": 3510157.65, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000329_0,A0000329,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000329_1,A0000329,BKI_MOCK,completed_mock,"{""existing_debt"": 1446836.16, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000330_0,A0000330,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000330_1,A0000330,BKI_MOCK,completed_mock,"{""existing_debt"": 1587621.27, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000331_0,A0000331,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000331_1,A0000331,BKI_MOCK,completed_mock,"{""existing_debt"": 7568631.31, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000332_0,A0000332,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000332_1,A0000332,BKI_MOCK,completed_mock,"{""existing_debt"": 2661699.85, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000333_0,A0000333,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000333_1,A0000333,BKI_MOCK,completed_mock,"{""existing_debt"": 541958.92, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000334_0,A0000334,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000334_1,A0000334,BKI_MOCK,completed_mock,"{""existing_debt"": 1788409.92, ""overdue_days"": 10}",2026-10-19T09:15:00+00:00
+CHK0000335_0,A0000335,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000335_1,A0000335,BKI_MOCK,completed_mock,"{""existing_debt"": 1549771.91, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000336_0,A0000336,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000336_1,A0000336,BKI_MOCK,completed_mock,"{""existing_debt"": 6568340.56, ""overdue_days"": 18}",2026-10-19T09:15:00+00:00
+CHK0000337_0,A0000337,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000337_1,A0000337,BKI_MOCK,completed_mock,"{""existing_debt"": 4846318.78, ""overdue_days"": 83}",2026-10-19T09:15:00+00:00
+CHK0000338_0,A0000338,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000338_1,A0000338,BKI_MOCK,completed_mock,"{""existing_debt"": 1760094.53, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000339_0,A0000339,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000339_1,A0000339,BKI_MOCK,completed_mock,"{""existing_debt"": 4519072.51, ""overdue_days"": 106}",2026-10-19T09:15:00+00:00
+CHK0000340_0,A0000340,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000340_1,A0000340,BKI_MOCK,completed_mock,"{""existing_debt"": 1551261.23, ""overdue_days"": 21}",2026-10-19T09:15:00+00:00
+CHK0000342_0,A0000342,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000342_1,A0000342,BKI_MOCK,completed_mock,"{""existing_debt"": 8963033.04, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000344_0,A0000344,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000344_1,A0000344,BKI_MOCK,completed_mock,"{""existing_debt"": 474868.23, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000345_0,A0000345,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000345_1,A0000345,BKI_MOCK,completed_mock,"{""existing_debt"": 4244721.55, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000346_0,A0000346,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000346_1,A0000346,BKI_MOCK,completed_mock,"{""existing_debt"": 2797022.76, ""overdue_days"": 15}",2026-10-19T09:15:00+00:00
+CHK0000348_0,A0000348,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000348_1,A0000348,BKI_MOCK,completed_mock,"{""existing_debt"": 2162553.68, ""overdue_days"": 8}",2026-10-19T09:15:00+00:00
+CHK0000350_0,A0000350,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000350_1,A0000350,BKI_MOCK,completed_mock,"{""existing_debt"": 1483746.63, ""overdue_days"": 10}",2026-10-19T09:15:00+00:00
+CHK0000351_0,A0000351,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000351_1,A0000351,BKI_MOCK,completed_mock,"{""existing_debt"": 3079801.96, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000352_0,A0000352,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000352_1,A0000352,BKI_MOCK,completed_mock,"{""existing_debt"": 7778702.45, ""overdue_days"": 47}",2026-10-19T09:15:00+00:00
+CHK0000353_0,A0000353,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000353_1,A0000353,BKI_MOCK,completed_mock,"{""existing_debt"": 324098.85, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000354_0,A0000354,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000354_1,A0000354,BKI_MOCK,completed_mock,"{""existing_debt"": 257366.74, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000355_0,A0000355,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000355_1,A0000355,BKI_MOCK,completed_mock,"{""existing_debt"": 1817095.71, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000356_0,A0000356,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000356_1,A0000356,BKI_MOCK,completed_mock,"{""existing_debt"": 2946779.92, ""overdue_days"": 84}",2026-10-19T09:15:00+00:00
+CHK0000357_0,A0000357,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000357_1,A0000357,BKI_MOCK,completed_mock,"{""existing_debt"": 3608107.35, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000358_0,A0000358,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000358_1,A0000358,BKI_MOCK,completed_mock,"{""existing_debt"": 806367.67, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000359_0,A0000359,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000359_1,A0000359,BKI_MOCK,completed_mock,"{""existing_debt"": 1138946.54, ""overdue_days"": 19}",2026-10-19T09:15:00+00:00
+CHK0000360_0,A0000360,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000360_1,A0000360,BKI_MOCK,completed_mock,"{""existing_debt"": 4500319.86, ""overdue_days"": 8}",2026-10-19T09:15:00+00:00
+CHK0000361_0,A0000361,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000361_1,A0000361,BKI_MOCK,completed_mock,"{""existing_debt"": 487451.25, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000362_0,A0000362,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000362_1,A0000362,BKI_MOCK,completed_mock,"{""existing_debt"": 1422744.58, ""overdue_days"": 85}",2026-10-19T09:15:00+00:00
+CHK0000363_0,A0000363,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000363_1,A0000363,BKI_MOCK,completed_mock,"{""existing_debt"": 299316.81, ""overdue_days"": 22}",2026-10-19T09:15:00+00:00
+CHK0000365_0,A0000365,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000365_1,A0000365,BKI_MOCK,completed_mock,"{""existing_debt"": 3816978.11, ""overdue_days"": 10}",2026-10-19T09:15:00+00:00
+CHK0000367_0,A0000367,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000367_1,A0000367,BKI_MOCK,completed_mock,"{""existing_debt"": 293291.54, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000368_0,A0000368,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000368_1,A0000368,BKI_MOCK,completed_mock,"{""existing_debt"": 771987.38, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000369_0,A0000369,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000369_1,A0000369,BKI_MOCK,completed_mock,"{""existing_debt"": 6919164.25, ""overdue_days"": 2}",2026-10-19T09:15:00+00:00
+CHK0000370_0,A0000370,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000370_1,A0000370,BKI_MOCK,completed_mock,"{""existing_debt"": 10926629.79, ""overdue_days"": 24}",2026-10-19T09:15:00+00:00
+CHK0000371_0,A0000371,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000371_1,A0000371,BKI_MOCK,completed_mock,"{""existing_debt"": 3226985.8, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000372_0,A0000372,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000372_1,A0000372,BKI_MOCK,completed_mock,"{""existing_debt"": 34254249.36, ""overdue_days"": 11}",2026-10-19T09:15:00+00:00
+CHK0000373_0,A0000373,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000373_1,A0000373,BKI_MOCK,completed_mock,"{""existing_debt"": 3862290.46, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000374_0,A0000374,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000374_1,A0000374,BKI_MOCK,completed_mock,"{""existing_debt"": 15393942.53, ""overdue_days"": 16}",2026-10-19T09:15:00+00:00
+CHK0000375_0,A0000375,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000375_1,A0000375,BKI_MOCK,completed_mock,"{""existing_debt"": 741933.43, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000376_0,A0000376,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000376_1,A0000376,BKI_MOCK,completed_mock,"{""existing_debt"": 9663960.7, ""overdue_days"": 11}",2026-10-19T09:15:00+00:00
+CHK0000377_0,A0000377,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000377_1,A0000377,BKI_MOCK,completed_mock,"{""existing_debt"": 819014.85, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000378_0,A0000378,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000378_1,A0000378,BKI_MOCK,completed_mock,"{""existing_debt"": 188281.05, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000379_0,A0000379,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000379_1,A0000379,BKI_MOCK,completed_mock,"{""existing_debt"": 739442.14, ""overdue_days"": 2}",2026-10-19T09:15:00+00:00
+CHK0000380_0,A0000380,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000380_1,A0000380,BKI_MOCK,completed_mock,"{""existing_debt"": 3834867.7, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000382_0,A0000382,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000382_1,A0000382,BKI_MOCK,completed_mock,"{""existing_debt"": 7193145.55, ""overdue_days"": 18}",2026-10-19T09:15:00+00:00
+CHK0000383_0,A0000383,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000383_1,A0000383,BKI_MOCK,completed_mock,"{""existing_debt"": 1928921.12, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000384_0,A0000384,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000384_1,A0000384,BKI_MOCK,completed_mock,"{""existing_debt"": 2185417.56, ""overdue_days"": 15}",2026-10-19T09:15:00+00:00
+CHK0000385_0,A0000385,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000385_1,A0000385,BKI_MOCK,completed_mock,"{""existing_debt"": 2149846.81, ""overdue_days"": 18}",2026-10-19T09:15:00+00:00
+CHK0000386_0,A0000386,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000386_1,A0000386,BKI_MOCK,completed_mock,"{""existing_debt"": 683062.97, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000387_0,A0000387,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000387_1,A0000387,BKI_MOCK,completed_mock,"{""existing_debt"": 17191398.38, ""overdue_days"": 70}",2026-10-19T09:15:00+00:00
+CHK0000388_0,A0000388,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000388_1,A0000388,BKI_MOCK,completed_mock,"{""existing_debt"": 438518.09, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000389_0,A0000389,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000389_1,A0000389,BKI_MOCK,completed_mock,"{""existing_debt"": 692064.82, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000390_0,A0000390,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000390_1,A0000390,BKI_MOCK,completed_mock,"{""existing_debt"": 1148372.35, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000391_0,A0000391,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000391_1,A0000391,BKI_MOCK,completed_mock,"{""existing_debt"": 1074179.34, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000392_0,A0000392,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000392_1,A0000392,BKI_MOCK,completed_mock,"{""existing_debt"": 3682031.02, ""overdue_days"": 2}",2026-10-19T09:15:00+00:00
+CHK0000394_0,A0000394,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000394_1,A0000394,BKI_MOCK,completed_mock,"{""existing_debt"": 10379872.95, ""overdue_days"": 8}",2026-10-19T09:15:00+00:00
+CHK0000395_0,A0000395,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000395_1,A0000395,BKI_MOCK,completed_mock,"{""existing_debt"": 1329494.66, ""overdue_days"": 16}",2026-10-19T09:15:00+00:00
+CHK0000396_0,A0000396,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000396_1,A0000396,BKI_MOCK,completed_mock,"{""existing_debt"": 4694403.47, ""overdue_days"": 74}",2026-10-19T09:15:00+00:00
+CHK0000397_0,A0000397,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000397_1,A0000397,BKI_MOCK,completed_mock,"{""existing_debt"": 1471752.1, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000398_0,A0000398,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000398_1,A0000398,BKI_MOCK,completed_mock,"{""existing_debt"": 8218918.08, ""overdue_days"": 68}",2026-10-19T09:15:00+00:00
+CHK0000399_0,A0000399,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000399_1,A0000399,BKI_MOCK,completed_mock,"{""existing_debt"": 2331202.13, ""overdue_days"": 9}",2026-10-19T09:15:00+00:00
+CHK0000400_0,A0000400,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000400_1,A0000400,BKI_MOCK,completed_mock,"{""existing_debt"": 465974.33, ""overdue_days"": 2}",2026-10-19T09:15:00+00:00
+CHK0000401_0,A0000401,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000401_1,A0000401,BKI_MOCK,completed_mock,"{""existing_debt"": 3011842.62, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000402_0,A0000402,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000402_1,A0000402,BKI_MOCK,completed_mock,"{""existing_debt"": 3359602.02, ""overdue_days"": 88}",2026-10-19T09:15:00+00:00
+CHK0000403_0,A0000403,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000403_1,A0000403,BKI_MOCK,completed_mock,"{""existing_debt"": 2013986.62, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000404_0,A0000404,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000404_1,A0000404,BKI_MOCK,completed_mock,"{""existing_debt"": 944834.21, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000405_0,A0000405,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000405_1,A0000405,BKI_MOCK,completed_mock,"{""existing_debt"": 503804.38, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000406_0,A0000406,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000406_1,A0000406,BKI_MOCK,completed_mock,"{""existing_debt"": 1508102.84, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000407_0,A0000407,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000407_1,A0000407,BKI_MOCK,completed_mock,"{""existing_debt"": 5773502.79, ""overdue_days"": 16}",2026-10-19T09:15:00+00:00
+CHK0000408_0,A0000408,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000408_1,A0000408,BKI_MOCK,completed_mock,"{""existing_debt"": 1311144.17, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000409_0,A0000409,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000409_1,A0000409,BKI_MOCK,completed_mock,"{""existing_debt"": 1472076.18, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000410_0,A0000410,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000410_1,A0000410,BKI_MOCK,completed_mock,"{""existing_debt"": 2296407.3, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000411_0,A0000411,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000411_1,A0000411,BKI_MOCK,completed_mock,"{""existing_debt"": 1326973.11, ""overdue_days"": 15}",2026-10-19T09:15:00+00:00
+CHK0000412_0,A0000412,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000412_1,A0000412,BKI_MOCK,completed_mock,"{""existing_debt"": 453095.93, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000413_0,A0000413,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000413_1,A0000413,BKI_MOCK,completed_mock,"{""existing_debt"": 558044.01, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000414_0,A0000414,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000414_1,A0000414,BKI_MOCK,completed_mock,"{""existing_debt"": 9979944.51, ""overdue_days"": 13}",2026-10-19T09:15:00+00:00
+CHK0000415_0,A0000415,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000415_1,A0000415,BKI_MOCK,completed_mock,"{""existing_debt"": 1308637.24, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000416_0,A0000416,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000416_1,A0000416,BKI_MOCK,completed_mock,"{""existing_debt"": 3082662.58, ""overdue_days"": 18}",2026-10-19T09:15:00+00:00
+CHK0000417_0,A0000417,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000417_1,A0000417,BKI_MOCK,completed_mock,"{""existing_debt"": 9894446.67, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000419_0,A0000419,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000419_1,A0000419,BKI_MOCK,completed_mock,"{""existing_debt"": 257916.76, ""overdue_days"": 8}",2026-10-19T09:15:00+00:00
+CHK0000420_0,A0000420,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000420_1,A0000420,BKI_MOCK,completed_mock,"{""existing_debt"": 240875.78, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000421_0,A0000421,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000421_1,A0000421,BKI_MOCK,completed_mock,"{""existing_debt"": 6034237.58, ""overdue_days"": 103}",2026-10-19T09:15:00+00:00
+CHK0000422_0,A0000422,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000422_1,A0000422,BKI_MOCK,completed_mock,"{""existing_debt"": 1405973.24, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000423_0,A0000423,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000423_1,A0000423,BKI_MOCK,completed_mock,"{""existing_debt"": 330799.57, ""overdue_days"": 2}",2026-10-19T09:15:00+00:00
+CHK0000424_0,A0000424,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000424_1,A0000424,BKI_MOCK,completed_mock,"{""existing_debt"": 3676911.99, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000425_0,A0000425,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000425_1,A0000425,BKI_MOCK,completed_mock,"{""existing_debt"": 1339974.94, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000426_0,A0000426,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000426_1,A0000426,BKI_MOCK,completed_mock,"{""existing_debt"": 1038285.8, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000427_0,A0000427,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000427_1,A0000427,BKI_MOCK,completed_mock,"{""existing_debt"": 524567.24, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000428_0,A0000428,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000428_1,A0000428,BKI_MOCK,completed_mock,"{""existing_debt"": 4291450.15, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000429_0,A0000429,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000429_1,A0000429,BKI_MOCK,completed_mock,"{""existing_debt"": 1127774.94, ""overdue_days"": 63}",2026-10-19T09:15:00+00:00
+CHK0000431_0,A0000431,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000431_1,A0000431,BKI_MOCK,completed_mock,"{""existing_debt"": 928724.77, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000432_0,A0000432,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000432_1,A0000432,BKI_MOCK,completed_mock,"{""existing_debt"": 4224923.83, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000433_0,A0000433,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000433_1,A0000433,BKI_MOCK,completed_mock,"{""existing_debt"": 6599286.47, ""overdue_days"": 16}",2026-10-19T09:15:00+00:00
+CHK0000434_0,A0000434,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000434_1,A0000434,BKI_MOCK,completed_mock,"{""existing_debt"": 2254002.4, ""overdue_days"": 15}",2026-10-19T09:15:00+00:00
+CHK0000435_0,A0000435,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000435_1,A0000435,BKI_MOCK,completed_mock,"{""existing_debt"": 7922804.29, ""overdue_days"": 81}",2026-10-19T09:15:00+00:00
+CHK0000436_0,A0000436,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000436_1,A0000436,BKI_MOCK,completed_mock,"{""existing_debt"": 4440715.46, ""overdue_days"": 60}",2026-10-19T09:15:00+00:00
+CHK0000437_0,A0000437,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000437_1,A0000437,BKI_MOCK,completed_mock,"{""existing_debt"": 6374750.47, ""overdue_days"": 15}",2026-10-19T09:15:00+00:00
+CHK0000439_0,A0000439,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000439_1,A0000439,BKI_MOCK,completed_mock,"{""existing_debt"": 2534405.78, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000440_0,A0000440,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000440_1,A0000440,BKI_MOCK,completed_mock,"{""existing_debt"": 824225.98, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000441_0,A0000441,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000441_1,A0000441,BKI_MOCK,completed_mock,"{""existing_debt"": 592278.71, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000442_0,A0000442,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000442_1,A0000442,BKI_MOCK,completed_mock,"{""existing_debt"": 2188444.26, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000443_0,A0000443,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000443_1,A0000443,BKI_MOCK,completed_mock,"{""existing_debt"": 1727133.19, ""overdue_days"": 2}",2026-10-19T09:15:00+00:00
+CHK0000445_0,A0000445,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000445_1,A0000445,BKI_MOCK,completed_mock,"{""existing_debt"": 314970.87, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000446_0,A0000446,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000446_1,A0000446,BKI_MOCK,completed_mock,"{""existing_debt"": 2000364.31, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000448_0,A0000448,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000448_1,A0000448,BKI_MOCK,completed_mock,"{""existing_debt"": 7055509.86, ""overdue_days"": 64}",2026-10-19T09:15:00+00:00
+CHK0000449_0,A0000449,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000449_1,A0000449,BKI_MOCK,completed_mock,"{""existing_debt"": 12942080.23, ""overdue_days"": 88}",2026-10-19T09:15:00+00:00
+CHK0000451_0,A0000451,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000451_1,A0000451,BKI_MOCK,completed_mock,"{""existing_debt"": 1498790.93, ""overdue_days"": 85}",2026-10-19T09:15:00+00:00
+CHK0000452_0,A0000452,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000452_1,A0000452,BKI_MOCK,completed_mock,"{""existing_debt"": 2597519.43, ""overdue_days"": 81}",2026-10-19T09:15:00+00:00
+CHK0000453_0,A0000453,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000453_1,A0000453,BKI_MOCK,completed_mock,"{""existing_debt"": 650735.63, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000454_0,A0000454,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000454_1,A0000454,BKI_MOCK,completed_mock,"{""existing_debt"": 5176779.02, ""overdue_days"": 11}",2026-10-19T09:15:00+00:00
+CHK0000455_0,A0000455,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000455_1,A0000455,BKI_MOCK,completed_mock,"{""existing_debt"": 1043921.18, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000456_0,A0000456,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000456_1,A0000456,BKI_MOCK,completed_mock,"{""existing_debt"": 5285820.19, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000457_0,A0000457,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000457_1,A0000457,BKI_MOCK,completed_mock,"{""existing_debt"": 1285269.33, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000458_0,A0000458,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000458_1,A0000458,BKI_MOCK,completed_mock,"{""existing_debt"": 2631978.25, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000459_0,A0000459,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000459_1,A0000459,BKI_MOCK,completed_mock,"{""existing_debt"": 134369.06, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000460_0,A0000460,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000460_1,A0000460,BKI_MOCK,completed_mock,"{""existing_debt"": 5135559.68, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000461_0,A0000461,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000461_1,A0000461,BKI_MOCK,completed_mock,"{""existing_debt"": 2694278.58, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000462_0,A0000462,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000462_1,A0000462,BKI_MOCK,completed_mock,"{""existing_debt"": 1009250.02, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000463_0,A0000463,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000463_1,A0000463,BKI_MOCK,completed_mock,"{""existing_debt"": 1412855.65, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000464_0,A0000464,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000464_1,A0000464,BKI_MOCK,completed_mock,"{""existing_debt"": 878840.75, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000466_0,A0000466,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000466_1,A0000466,BKI_MOCK,completed_mock,"{""existing_debt"": 689635.42, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000467_0,A0000467,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000467_1,A0000467,BKI_MOCK,completed_mock,"{""existing_debt"": 3255126.55, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000468_0,A0000468,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000468_1,A0000468,BKI_MOCK,completed_mock,"{""existing_debt"": 2241009.77, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000469_0,A0000469,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000469_1,A0000469,BKI_MOCK,completed_mock,"{""existing_debt"": 4100138.57, ""overdue_days"": 9}",2026-10-19T09:15:00+00:00
+CHK0000470_0,A0000470,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000470_1,A0000470,BKI_MOCK,completed_mock,"{""existing_debt"": 1426258.17, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000471_0,A0000471,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000471_1,A0000471,BKI_MOCK,completed_mock,"{""existing_debt"": 988222.4, ""overdue_days"": 12}",2026-10-19T09:15:00+00:00
+CHK0000472_0,A0000472,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000472_1,A0000472,BKI_MOCK,completed_mock,"{""existing_debt"": 4111883.09, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000473_0,A0000473,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000473_1,A0000473,BKI_MOCK,completed_mock,"{""existing_debt"": 3234683.1, ""overdue_days"": 8}",2026-10-19T09:15:00+00:00
+CHK0000474_0,A0000474,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000474_1,A0000474,BKI_MOCK,completed_mock,"{""existing_debt"": 668708.29, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000475_0,A0000475,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000475_1,A0000475,BKI_MOCK,completed_mock,"{""existing_debt"": 933642.8, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000477_0,A0000477,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000477_1,A0000477,BKI_MOCK,completed_mock,"{""existing_debt"": 986638.24, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000478_0,A0000478,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000478_1,A0000478,BKI_MOCK,completed_mock,"{""existing_debt"": 1445657.89, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000479_0,A0000479,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000479_1,A0000479,BKI_MOCK,completed_mock,"{""existing_debt"": 2187564.41, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000480_0,A0000480,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000480_1,A0000480,BKI_MOCK,completed_mock,"{""existing_debt"": 3521068.05, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000481_0,A0000481,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000481_1,A0000481,BKI_MOCK,completed_mock,"{""existing_debt"": 2846560.2, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000482_0,A0000482,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000482_1,A0000482,BKI_MOCK,completed_mock,"{""existing_debt"": 7422336.53, ""overdue_days"": 21}",2026-10-19T09:15:00+00:00
+CHK0000483_0,A0000483,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000483_1,A0000483,BKI_MOCK,completed_mock,"{""existing_debt"": 1805174.96, ""overdue_days"": 73}",2026-10-19T09:15:00+00:00
+CHK0000484_0,A0000484,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000484_1,A0000484,BKI_MOCK,completed_mock,"{""existing_debt"": 879801.45, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000485_0,A0000485,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000485_1,A0000485,BKI_MOCK,completed_mock,"{""existing_debt"": 3371473.18, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000486_0,A0000486,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000486_1,A0000486,BKI_MOCK,completed_mock,"{""existing_debt"": 459611.35, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000487_0,A0000487,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000487_1,A0000487,BKI_MOCK,completed_mock,"{""existing_debt"": 3579917.15, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000488_0,A0000488,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000488_1,A0000488,BKI_MOCK,completed_mock,"{""existing_debt"": 1014021.18, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000489_0,A0000489,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000489_1,A0000489,BKI_MOCK,completed_mock,"{""existing_debt"": 879142.31, ""overdue_days"": 62}",2026-10-19T09:15:00+00:00
+CHK0000490_0,A0000490,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000490_1,A0000490,BKI_MOCK,completed_mock,"{""existing_debt"": 1961716.8, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000491_0,A0000491,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000491_1,A0000491,BKI_MOCK,completed_mock,"{""existing_debt"": 489894.31, ""overdue_days"": 99}",2026-10-19T09:15:00+00:00
+CHK0000492_0,A0000492,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000492_1,A0000492,BKI_MOCK,completed_mock,"{""existing_debt"": 7777853.78, ""overdue_days"": 78}",2026-10-19T09:15:00+00:00
+CHK0000493_0,A0000493,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000493_1,A0000493,BKI_MOCK,completed_mock,"{""existing_debt"": 4101654.13, ""overdue_days"": 21}",2026-10-19T09:15:00+00:00
+CHK0000494_0,A0000494,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000494_1,A0000494,BKI_MOCK,completed_mock,"{""existing_debt"": 1446074.34, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000495_0,A0000495,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000495_1,A0000495,BKI_MOCK,completed_mock,"{""existing_debt"": 2117797.45, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000496_0,A0000496,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000496_1,A0000496,BKI_MOCK,completed_mock,"{""existing_debt"": 516428.14, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000497_0,A0000497,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000497_1,A0000497,BKI_MOCK,completed_mock,"{""existing_debt"": 1113352.43, ""overdue_days"": 1}",2026-10-19T09:15:00+00:00
+CHK0000498_0,A0000498,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000498_1,A0000498,BKI_MOCK,completed_mock,"{""existing_debt"": 276785.04, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000499_0,A0000499,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000499_1,A0000499,BKI_MOCK,completed_mock,"{""existing_debt"": 1941584.02, ""overdue_days"": 10}",2026-10-19T09:15:00+00:00
+CHK0000500_0,A0000500,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000500_1,A0000500,BKI_MOCK,completed_mock,"{""existing_debt"": 800000.0, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00
+CHK0000501_0,A0000501,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000501_1,A0000501,BKI_MOCK,completed_mock,"{""existing_debt"": 8000000.0, ""overdue_days"": 90}",2026-10-19T09:15:00+00:00
+CHK0000503_0,A0000503,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000503_1,A0000503,BKI_MOCK,completed_mock,"{""existing_debt"": 1000000.0, ""overdue_days"": 14}",2026-10-19T09:15:00+00:00
+CHK0000504_0,A0000504,FNS_MOCK,completed_mock,"{""registered"": true}",2026-10-19T09:15:00+00:00
+CHK0000504_1,A0000504,BKI_MOCK,completed_mock,"{""existing_debt"": 800000.0, ""overdue_days"": 0}",2026-10-19T09:15:00+00:00

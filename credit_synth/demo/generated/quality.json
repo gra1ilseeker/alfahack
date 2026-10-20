@@ -1,0 +1,75 @@
+{
+  "reference": "held-out source test companies",
+  "reference_rows": 361,
+  "synthetic_rows": 500,
+  "interpretation": "Agreement with the chosen source, not with real bank customers; no pass/fail threshold.",
+  "numeric_ks": {
+    "company_age_months": 0.044858725761772855,
+    "headcount": 0.049795013850415515,
+    "monthly_revenue": 0.05932409972299169,
+    "margin": 0.05630470914127424,
+    "debt_to_revenue": 0.10227146814404432,
+    "liquidity_months": 0.05643213296398892,
+    "revenue_volatility": 0.06781717451523546,
+    "overdue_days": 0.060814404432132964,
+    "requested_to_revenue": 0.042210526315789476,
+    "collateral_coverage": 0.04356786703601108
+  },
+  "categorical_total_variation": {
+    "sector": 0.0651634349030471,
+    "region": 0.0721994459833795,
+    "legal_form": 0.04947922437673127,
+    "product_id": 0.021495844875346212,
+    "term_months": 0.1261551246537396
+  },
+  "mean_absolute_correlation_error": 0.03963519118285817,
+  "conditional_numeric_ks": {
+    "borderline": {
+      "company_age_months": 0.1282051282051282,
+      "headcount": 0.0641025641025641,
+      "monthly_revenue": 0.08333333333333333,
+      "margin": 0.057692307692307696,
+      "debt_to_revenue": 0.11858974358974358,
+      "liquidity_months": 0.0641025641025641,
+      "revenue_volatility": 0.11858974358974358,
+      "overdue_days": 0.07692307692307693,
+      "requested_to_revenue": 0.11217948717948718,
+      "collateral_coverage": 0.07692307692307693
+    },
+    "distressed": {
+      "company_age_months": 0.20095948827292112,
+      "headcount": 0.17057569296375266,
+      "monthly_revenue": 0.13805970149253732,
+      "margin": 0.18896588486140725,
+      "debt_to_revenue": 0.291044776119403,
+      "liquidity_months": 0.23427505330490406,
+      "revenue_volatility": 0.2046908315565032,
+      "overdue_days": 0.30463752665245203,
+      "requested_to_revenue": 0.1652452025586354,
+      "collateral_coverage": 0.07942430703624734
+    },
+    "healthy": {
+      "company_age_months": 0.0654309679041615,
+      "headcount": 0.05398997790829247,
+      "monthly_revenue": 0.09407834473840185,
+      "margin": 0.09086337266734917,
+      "debt_to_revenue": 0.17560213373565386,
+      "liquidity_months": 0.08534942615442642,
+      "revenue_volatility": 0.1232645437074555,
+      "overdue_days": 0.04262083086373188,
+      "requested_to_revenue": 0.09984374158090414,
+      "collateral_coverage": 0.09256964276092462
+    }
+  },
+  "two_sample_classifier_auc": 0.5609921848453957,
+  "two_sample_classifier_note": "Held-out classifier split; 0.5 means harder to distinguish for this classifier only.",
+  "nearest_training_row_distance_median": 2.181734085083008,
+  "exact_training_feature_matches": 0,
+  "privacy_note": "Nearest-neighbor checks do not provide differential privacy guarantees.",
+  "generated_graph": {
+    "nodes": 505,
+    "edges": 1515,
+    "mean_degree": 6.0,
+    "density": 0.011904761904761904
+  }
+}

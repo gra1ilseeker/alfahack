@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-19",
+  "seed": 123,
+  "generated_companies": 24,
+  "fixture_companies": 5,
+  "scenario_mix": [
+    0.55,
+    0.3,
+    0.15
+  ],
+  "projection_counts": {
+    "company_age_months": 0,
+    "headcount": 0,
+    "monthly_revenue": 0,
+    "margin": 1,
+    "debt_to_revenue": 3,
+    "liquidity_months": 0,
+    "revenue_volatility": 1,
+    "overdue_days": 4,
+    "requested_to_revenue": 0,
+    "collateral_coverage": 0,
+    "product_term_adjustments": 2
+  },
+  "all_data_synthetic": true,
+  "training_source": {
+    "source": "fictional_rule_simulator",
+    "seed": 42,
+    "rows": 180,
+    "contains_real_bank_data": false,
+    "warning": "Learning this source learns the simulator, not a real bank distribution."
+  },
+  "cvae_sha256": "c0f27f4e533e2a63d5326832e8ad00336e16bcada2a88e8898e987635c01009f",
+  "vgae_sha256": "36a5d8f0f89a7bc0760f184fbc5d454c13dfc8a2bfcd0bf4d30eff1e7f01d52c",
+  "graph_sampling": "feature-conditioned prior, uniform candidates, weighted fixed edge budget",
+  "graph_scores": "ranking scores from balanced negative sampling; NOT calibrated probabilities",
+  "labels": "scenario and fixture_case are generation metadata, not credit-default targets"
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 21.14759635925293,
+    "validation_negative_elbo": 20.926265716552734,
+    "validation_reconstruction_nll": 20.898637771606445,
+    "validation_kl": 0.02762836404144764
+  },
+  {
+    "epoch": 2,
+    "train_loss": 21.083417892456055,
+    "validation_negative_elbo": 20.872533798217773,
+    "validation_reconstruction_nll": 20.85375213623047,
+    "validation_kl": 0.018782593309879303
+  }
+]

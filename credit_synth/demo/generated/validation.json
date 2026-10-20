@@ -1,0 +1,35 @@
+{
+  "valid": true,
+  "checks_passed": 9093,
+  "rows": {
+    "companies": 505,
+    "clients": 505,
+    "employees": 6,
+    "products": 3,
+    "memberships": 505,
+    "profiles": 505,
+    "financials_monthly": 6060,
+    "applications": 505,
+    "documents": 1515,
+    "external_checks": 892,
+    "decisions": 505,
+    "application_events": 3056,
+    "loans": 72,
+    "company_links": 1515
+  },
+  "application_statuses": {
+    "REJECTED": 154,
+    "APPROVED": 138,
+    "COUNTER_OFFER": 82,
+    "ISSUED": 72,
+    "NEEDS_INFO": 59
+  },
+  "fixture_cases": [
+    "approved",
+    "rejected",
+    "needs_info",
+    "counter_offer",
+    "issued"
+  ],
+  "sqlite_foreign_keys_valid": true
+}

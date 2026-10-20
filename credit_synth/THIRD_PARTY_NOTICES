@@ -1,0 +1,35 @@
+This is a standalone data-generation component, not an Alfa-Bank product.
+
+Runtime components (versions are pinned in requirements.txt):
+- Python: Python Software Foundation License.
+- PyTorch: BSD-style license. https://github.com/pytorch/pytorch
+- NumPy: BSD-3-Clause. https://numpy.org
+- pandas: BSD-3-Clause. https://pandas.pydata.org
+- SciPy: BSD-3-Clause. https://scipy.org
+- scikit-learn: BSD-3-Clause. https://scikit-learn.org
+- joblib: BSD-3-Clause; threadpoolctl: BSD-3-Clause.
+- python-dateutil: dual Apache-2.0/BSD-3-Clause; six: MIT; pytz: MIT.
+- tzdata: Apache-2.0 for the Python package; IANA database licenses apply to its data.
+- filelock: Unlicense; typing_extensions: PSF-2.0.
+- NetworkX: BSD-3-Clause; Jinja2 and MarkupSafe: BSD-3-Clause.
+- fsspec: BSD-3-Clause; SymPy and mpmath: BSD-style.
+- setuptools: MIT. SQLite is included in the Python runtime; SQLite is public domain.
+Refer to each installed distribution's license files for authoritative terms.
+
+Research references (architectures adapted in original code; no implementation copied):
+- Kingma, Welling. Auto-Encoding Variational Bayes. https://arxiv.org/abs/1312.6114
+- Kipf, Welling. Variational Graph Auto-Encoders. https://arxiv.org/abs/1611.07308
+The graph module adds a feature-conditioned learned Gaussian prior; it is not an
+exact reproduction of the cited standard-normal-prior VGAE.
+
+Models / data:
+- No third-party pretrained weights, customer datasets, LLMs or paid APIs.
+- Bundled demo weights were trained locally on the included fictional simulator.
+- The attached hackathon brief informed the schema; the brief is not redistributed.
+
+Modeled integrations:
+- FNS_MOCK: always confirms a synthetic company is registered.
+- BKI_MOCK: returns generated debt and overdue values; no bureau is contacted.
+- Document bodies are synthetic text records, not signed files or OCR outputs.
+- Signing and disbursement are state events and loan rows only; no real transfers.
+- Product names, rates and credit rules are fictional demo configuration.

@@ -1,0 +1,7 @@
+services:
+  generator:
+    build: .
+    network_mode: none
+    volumes:
+      - ./output:/data
+    command: ["generate", "--model", "demo/model", "--out", "/data/generated", "--companies", "1000", "--seed", "123"]

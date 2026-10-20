@@ -1,0 +1,22 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.8045986294746399,
+    "kl": 0.324604868888855,
+    "prior_validation": {
+      "roc_auc": 0.6265432098765432,
+      "average_precision_balanced_sample": 0.5898723666782179,
+      "balanced_bce": 0.6906394362449646
+    }
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.8068708181381226,
+    "kl": 0.2258467823266983,
+    "prior_validation": {
+      "roc_auc": 0.6244855967078189,
+      "average_precision_balanced_sample": 0.5949045800765084,
+      "balanced_bce": 0.6911103129386902
+    }
+  }
+]

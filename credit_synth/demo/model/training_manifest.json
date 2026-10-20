@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "seed": 42,
+  "source": {
+    "source": "fictional_rule_simulator",
+    "seed": 42,
+    "rows": 2400,
+    "contains_real_bank_data": false,
+    "warning": "Learning this source learns the simulator, not a real bank distribution."
+  },
+  "profile_sha256": "e3b5f70d2e53c86bfb261c776e583e7fffe065e7f69ae8881f47b40482a939ee",
+  "torch_version": "2.6.0+cpu",
+  "cvae": {
+    "best_epoch": 38,
+    "validation_negative_elbo": 15.00623607635498,
+    "test_negative_elbo": 14.81231689453125,
+    "split_rows": [
+      1679,
+      360,
+      361
+    ]
+  },
+  "vgae": {
+    "best_epoch": 80,
+    "split_edges": [
+      5760,
+      720,
+      720
+    ],
+    "mean_degree": 6.0,
+    "prior_test": {
+      "roc_auc": 0.630204475308642,
+      "average_precision_balanced_sample": 0.6227872870072144,
+      "balanced_bce": 0.6693924069404602
+    },
+    "posterior_test": {
+      "roc_auc": 0.5996836419753087,
+      "average_precision_balanced_sample": 0.5800627745698088,
+      "balanced_bce": 0.6789343357086182
+    },
+    "evaluation": "transductive held-out edges; balanced negatives; not unseen-node validation"
+  }
+}
