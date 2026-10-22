@@ -2,6 +2,13 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.api.routes import auth, profile, metrics, dashboard, products, ranking, events
+from app.core.database import engine, Base
+from app.models import user as user_model
+from app.models import profile as profile_model
+from app.models import product as product_model
+from app.models import metric as metric_model
+from app.models import ranking as ranking_model
+from app.models import event as event_model
 
 app = FastAPI(title="AlfaHack Backend", version="0.1.0")
 
