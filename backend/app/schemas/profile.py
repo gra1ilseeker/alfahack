@@ -10,6 +10,42 @@ class ProfileCreate(BaseModel):
     employees: Optional[int] = None
     goals: Optional[str] = None
 
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "user_email": "founder@example.com",
+                "password": "pass1234",
+                "industry": "it",
+                "revenue_band": "0-1M",
+                "employees": 10,
+                "goals": "grow online sales",
+            }
+        }
+
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "user_email": "founder@example.com",
+                "password": "pass1234",
+                "industry": "it",
+                "revenue_band": "0-1M",
+                "employees": 10,
+                "goals": "grow online sales",
+            }
+        }
+
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "user_email": "founder@example.com",
+                "password": "pass1234",
+                "industry": "it",
+                "revenue_band": "0-1M",
+                "employees": 10,
+                "goals": "grow online sales",
+            }
+        }
+
 
 class ProfileResponse(BaseModel):
     id: int

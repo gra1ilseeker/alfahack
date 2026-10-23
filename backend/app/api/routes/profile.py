@@ -1,6 +1,7 @@
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 
+from app.models import User
 from app.schemas.profile import ProfileCreate, ProfileResponse
 from app.services import profile as profile_service
 from app.api.deps import get_db
@@ -10,6 +11,9 @@ router = APIRouter()
 
 @router.post("/", response_model=ProfileResponse)
 def create_profile(payload: ProfileCreate, db: Session = Depends(get_db)):
+    existing = db.query(User).filter(User.email == payload.user_email).first()
+    if existing:
+        raise HTTPException(status_code=400, detail="User already exists")
     profile = profile_service.create_profile(
         db,
         user_email=payload.user_email,
