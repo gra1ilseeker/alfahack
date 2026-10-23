@@ -5,3 +5,4 @@ from app.models.dashboard_snapshot import DashboardSnapshot
 from app.models.product import Product
 from app.models.ranking import Ranking
 from app.models.event import Event
+from app.models.session import SessionToken

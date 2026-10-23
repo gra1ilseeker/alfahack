@@ -20,6 +20,18 @@ def get_profile(db: Session, profile_id: int) -> Profile | None:
     return db.query(Profile).filter(Profile.id == profile_id).first()
 
 
+def delete_profile_and_user(db: Session, user_id: int) -> bool:
+    profile = db.query(Profile).filter(Profile.user_id == user_id).first()
+    if profile:
+        db.query(Metric).filter(Metric.profile_id == profile.id).delete()
+        db.delete(profile)
+    user = db.query(User).filter(User.id == user_id).first()
+    if user:
+        db.delete(user)
+    db.commit()
+    return True
+
+
 def add_metrics(db: Session, profile_id: int, metrics: list[dict]) -> list[Metric]:
     items: list[Metric] = []
     for m in metrics:
