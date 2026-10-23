@@ -1,8 +1,8 @@
 from fastapi import APIRouter, Depends, HTTPException, status, Form
 from sqlalchemy.orm import Session
 
-from app.models import User
-from app.schemas.auth import LoginRequest, TokenResponse, LogoutResponse, DeleteAccountResponse
+from app.models import User, Profile
+from app.schemas.auth import LoginRequest, TokenResponse, LogoutResponse, DeleteAccountResponse, AccountResponse, AccountProfileResponse
 from app.services.auth import authenticate, create_user, create_session, delete_session_by_token
 from app.services.auth import delete_sessions_by_user
 from app.services.profile import delete_profile_and_user
@@ -63,6 +63,18 @@ def register(payload: LoginRequest, db: Session = Depends(get_db)):
 def logout(current_session=Depends(get_current_session), db: Session = Depends(get_db)):
     delete_session_by_token(db, current_session.token)
     return LogoutResponse()
+
+
+@router.get("/me", response_model=AccountResponse)
+def get_me(current_user=Depends(get_current_user), db: Session = Depends(get_db)):
+    profile = db.query(Profile).filter(Profile.user_id == current_user.id).first()
+    profile_payload = AccountProfileResponse.model_validate(profile) if profile else None
+    return AccountResponse(
+        id=current_user.id,
+        email=current_user.email,
+        role=current_user.role,
+        profile=profile_payload,
+    )
 
 
 @router.delete("/me", response_model=DeleteAccountResponse)

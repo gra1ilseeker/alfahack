@@ -19,3 +19,24 @@ class LogoutResponse(BaseModel):
 
 class DeleteAccountResponse(BaseModel):
     detail: str = "account deleted"
+
+
+class AccountProfileResponse(BaseModel):
+    id: int
+    industry: str | None = None
+    revenue_band: str | None = None
+    employees: int | None = None
+    goals: str | None = None
+
+    class Config:
+        from_attributes = True
+
+
+class AccountResponse(BaseModel):
+    id: int
+    email: EmailStr
+    role: str
+    profile: AccountProfileResponse | None = None
+
+    class Config:
+        from_attributes = True
