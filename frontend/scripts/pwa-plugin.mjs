@@ -16,7 +16,7 @@ import {
   renderInstallPageHtml,
   renderWebManifest,
   snapshotOgIdentity,
-} from "./grok-pwa-shared.mjs";
+} from "./pwa-shared.mjs";
 
 export const GROK_OG_IDENTITY_ID = "virtual:grok-og-identity";
 
